@@ -1,0 +1,19 @@
+2025-11-09 09:29:31,092 - INFO - determine_controversy: Clairo 2025-04-13 label=hype score=nan mean_sent=0.000 keywords=0 neg_ex=0
+2025-11-09 09:31:05,068 - INFO - determine_controversy: Mac Miller 2025-01-12 label=hype score=nan mean_sent=0.000 keywords=0 neg_ex=0
+2025-11-09 09:31:08,248 - INFO - determine_controversy: Maroon 5 2025-01-26 label=hype score=nan mean_sent=0.000 keywords=0 neg_ex=0
+2025-11-09 09:32:45,207 - INFO - determine_controversy: PinkPantheress 2025-07-13 label=controversy score=0.5 mean_sent=0.146 keywords=1 neg_ex=1
+2025-11-09 09:32:50,213 - INFO - determine_controversy: Britney Spears 2025-10-12 label=controversy score=0.643 mean_sent=0.266 keywords=0 neg_ex=0
+2025-11-09 09:40:26,880 - INFO - determine_controversy: d4vid 2025-09-14 label=hype score=0.0 mean_sent=0.000 keywords=0 neg_ex=0
+2025-11-09 09:40:31,290 - INFO - determine_controversy: Kesha 2025-07-06 label=controversy score=0.504 mean_sent=0.122 keywords=0 neg_ex=0
+2025-11-09 09:41:08,403 - INFO - determine_controversy: System of a Down 2024-12-15 label=controversy score=0.301 mean_sent=0.108 keywords=0 neg_ex=0
+2025-11-09 09:42:48,886 - INFO - determine_controversy: SZA 2025-02-09 label=controversy score=0.524 mean_sent=0.196 keywords=0 neg_ex=0
+2025-11-09 11:28:42,703 - INFO - determine_controversy: Clairo 2025-04-13 label=hype score=nan mean_sent=0.000 keywords=0 neg_ex=0
+2025-11-09 11:33:32,532 - INFO - determine_controversy: Mac Miller 2025-01-12 label=hype score=nan mean_sent=0.000 keywords=0 neg_ex=0
+2025-11-09 11:38:20,219 - INFO - determine_controversy: Maroon 5 2025-01-26 label=hype score=nan mean_sent=0.000 keywords=0 neg_ex=0
+2025-11-09 11:42:04,180 - INFO - determine_controversy: PinkPantheress 2025-07-13 label=controversy score=0.5 mean_sent=0.146 keywords=1 neg_ex=1
+2025-11-09 11:45:13,177 - INFO - determine_controversy: Britney Spears 2025-10-12 label=controversy score=0.643 mean_sent=0.266 keywords=0 neg_ex=0
+2025-11-09 11:48:09,406 - INFO - determine_controversy: The Smiths 2025-06-22 label=hype score=0.139 mean_sent=0.081 keywords=0 neg_ex=0
+2025-11-09 11:51:19,391 - INFO - determine_controversy: d4vid 2025-09-14 label=hype score=0.0 mean_sent=0.000 keywords=0 neg_ex=0
+2025-11-09 11:54:41,971 - INFO - determine_controversy: Kesha 2025-07-06 label=controversy score=0.504 mean_sent=0.122 keywords=0 neg_ex=0
+2025-11-09 11:58:41,332 - INFO - determine_controversy: System of a Down 2024-12-15 label=controversy score=0.301 mean_sent=0.108 keywords=0 neg_ex=0
+2025-11-09 12:02:23,274 - INFO - determine_controversy: SZA 2025-02-09 label=controversy score=0.524 mean_sent=0.196 keywords=0 neg_ex=0
